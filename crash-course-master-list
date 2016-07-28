@@ -1,0 +1,161 @@
+# Crash Course Master List
+
+## How to edit or propose changes
+- Please do not push changes to master branch. Submit an issue or PR instead. Sam or Joe will approve them.
+
+## Playbook
+For all procedures related to CCs please refer to the [Crash Course Playbook](http://swayze.io/doku.php?id=crashcourse-playbook).
+
+## Master Crash Course List
+
+### [Build a Home Page](https://github.com/theironyard/crash-course-build-a-home-page)
+* Level: Beginner
+* Duration: 3-hour
+* Related Courses: Front End and Design
+* Technology: HTML, CSS, and Jquery
+* Notes:
+
+### [Build a Guess the Number Game with JavaScript](https://github.com/TIY-Atlanta/guess-the-number)
+* Level: Beginner
+* Duration: 1.5-hour
+* Related Courses: Front End
+* Technology: HTML, CSS, and JavaScript
+* Notes:
+    * [Slides](https://speakerdeck.com/ambethia/intro-to-javascript)
+    * [CodePen](http://codepen.io/ambethia/pen/wamjRj)
+
+
+### [Build a Calculator with JavaScript](https://github.com/TIY-Austin-Front-End-Engineering/calculator-crash-course)
+* Level: Beginner
+* Duration: 3-hour
+* Related Courses: Front End
+* Technology: HTML, CSS, and JavaScript
+* Notes:
+	* The gh-pages link in the README is the result of our last actual crash course, totally student led code. They were awesome!
+
+### [Ruby for the Newbie](https://gist.github.com/ambethia/a61b8cdf90258e1b951e)
+* Level: Beginner
+* Duration: 1.5-hour
+* Related Courses: Back End
+* Technology: Ruby
+* Notes:
+    * [Slides](https://speakerdeck.com/ambethia/ruby-for-the-newbie)
+
+### [Launching Rockets with Ruby](https://github.com/rposborne/launching-rockets-with-ruby)
+* Level: Beginner
+* Duration: 1.5-hour
+* Related Courses: Back End
+* Technology: Ruby
+* Notes:
+    * [Requires Kerbal Space Program on Instructors Machine](https://kerbalspaceprogram.com/en/)
+    * [Slides](http://slides.com/russellosborne/launch-rockets-with-ruby)
+
+### [ATL crash course for JavaScript](https://github.com/TIY-Atlanta/js-crash-course-tw)
+* Level: Beginner
+* Duration: 1.5-hour
+* Related Courses: Front End
+* Technology: HTML, CSS, and JavaScript
+* Notes:  
+
+### [Crash Course on Prototyping](https://github.com/jacobthemyth/prototyping-crash-course)
+* Level: Beginner
+* Duration: 1.5-hour
+* Related Courses: Front End and Design
+* Technology: HTML, CSS, and JavaScript
+* Notes: Uses Balsamiq and/or Invision App (both have free sign ups)
+
+### [HOU crash course for JavaScript](https://github.com/matthiasak/js-crash-course-1/)
+* Level: Intermediate
+* Duration: 1.5-hour
+* Related Courses: Front End
+* Technology: HTML, CSS, Sass, JavaScript, and Heroku
+* Notes:  
+
+### [Weather App - JavaScript crash course](https://github.com/rpearce/crash-courses/tree/master/js/weather)
+* Level: Beginner
+* Duration: 1.5hr (current weather) or 3hr (current & forecast)
+* Related Courses: Front End
+* Technology: HTML, CSS and JavaScript
+* Notes:
+  * [How to teach this](https://github.com/theironyard/crash-courses/wiki/Weather-App-JS-Notes)
+  * Uses [Open Weather Map's](http://openweathermap.org/) API for weather data.
+
+### [Intro to Swift](https://github.com/TheIronYard--Orlando/iOS--CC--Swift)
+* Level: Beginner
+* Duration: 2hr
+* Related Courses: Mobile Engineering
+* Technology: Swift, Xcode Playgrounds
+* Notes: Need Xcode 7 installed. Updated with Swift 2.0 syntax.
+
+### [iOS App - Iron Tunes](https://github.com/TheIronYard--Orlando/iOS--CC--IronTunes)
+* Level: Beginner (basic programming proficiency preferred, not necessarily with Swift; just some understanding of variables, functions, etc.)
+* Duration: 2hr
+* Related Courses: Mobile Engineering
+* Technology: Swift, Xcode, audio playback
+* Notes: Need Xcode 7 installed. Updated with Swift 2.0 syntax.
+
+### [iOS App - Music Player](https://github.com/TIY-Mobile-SLC/ios-crash-course)
+* Level: Beginner
+* Duration: 2-3hr
+* Related Courses: Mobile Engineering
+* Technology: Swift, Xcode, Xcode Playgrounds
+* Notes: Required for class: Mac. Need Xcode 7 installed.
+
+### [iOS App - Sticker App](https://github.com/TIY-Mobile-SLC/ios-crash-course-stickers)
+* Level: Beginner
+* Duration: 2-3hr
+* Related Courses: Mobile Engineering
+* Technology: Swift, Xcode, Xcode Playgrounds
+* Notes: Required for class: Mac. Need Xcode 7 installed.
+
+### [Design A Web App](https://github.com/abbylarner/crash-course-web-app-design)
+* Level: Beginner
+* Duration: 3hr
+* Related Courses: UI Design
+* Technology: Photoshop (download 30-day free trial)
+* Notes:
+
+### [Evil Hangman: introduction to Javascript](https://github.com/anyweez/evil-hangman)
+* Level: Beginner to intermediate
+* Duration: 3 hours
+* Related courses: Frontend
+* Technology: Javascript (+ small bits of HTML/CSS)
+* Notes: more focus on algorithms and computation than presentation
+
+
+### [Advanced CSS Animations](https://github.com/rpearce/crash-courses/tree/master/css/animations)
+* Level: Intermediate to Advanced
+* Duration: 1.5hr
+* Related Courses: Front End and Design
+* Technology: CSS (with pre-written HTML & JS where applicable)
+* Notes:
+  * [How to teach this](https://github.com/theironyard/crash-courses/wiki/Advanced-CSS-Animations-Notes)
+
+### [React Intro: Pet Info Form Steps](https://github.com/rpearce/react-form-steps-example)
+* Level: Intermediate to Advanced
+* Duration: ~2hr
+* Related Courses: Front End
+* Technology: JavaScript, React.js
+* Notes:
+  * Make sure, if people with to follow along, they have this downloaded and set up beforehand. There are instructions on how to do so in the README.
+
+### [Arrow Game](https://github.com/TIY-Columbia-Front-End-Engineering/arrow-game)
+* Level: Beginner
+* Duration: 1-2hr
+* Related Courses: Front-End Engineering
+* Technology: HTML (canvas) and JavaScript
+* Notes: Heavily documented code. Attendees will actually write ~15 LOC. Can scale to teach more about canvas to appropriate audience.
+
+### [Intro to Java](https://github.com/theironyard/java-curriculum/blob/doug/Crash%20Course.md)
+* Level: Beginner
+* Duration: 2-3 hours
+* Related Courses: Back End
+* Technology: Java
+* Notes: This class makes use of compilejava.net for writing and executing code. There are no samples as examples will be built in the class. This focuses on the super-basics of Java, starting from primitives and moving through basic classes.
+
+### [Intro to SQL[(http://github.com/jwo/sqlcrash/)
+* Level: Beginner
+* Duration: 1.5 hours
+* Related Courses: Back End
+* Technology: SQL (Applies to .NET, Rails, Java, Python)
+* Notes: Includes sample database and dataset, including the CSV and XSLX to use as a methaphor. Show to basic SELECT, INSERT, DELETE, UPDATE statements, and move into joins, counts, and sums.
